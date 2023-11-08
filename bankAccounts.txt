@@ -1,0 +1,17 @@
+CC,John,Doe,2/19/2000,599.99,0
+CC,Jane,Doe,10/1/2000,999.99,0
+S,Jane,Doe,10/1/1995,1000,0
+MM,Jane,Doe,10/1/1995,2000
+C,April,March,1/15/1987,300
+S,April,March,1/15/1987,1500,1
+C,Jason,Brown,3/31/1998,1200
+C,Kate,Lindsey,8/31/2001,450
+MM,Roy,Brooks,10/31/2007,2909.10
+MM,Roy,Brooks,10/1/2007,2909.10
+MM,April,March,1/15/1987,2500
+CC,Chris,Young,9/20/2006,500,0
+CC,Duke,Ellington,11/2/2002,900,1
+CC,Kate,Lindsey,11/2/2002,200,2
+S,John,Doe,2/19/1990,200,0
+
+
